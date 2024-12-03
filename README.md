@@ -12,19 +12,18 @@
 
 ## 💼 Skills & Expertise
 - **Programming Languages:** Kotlin, Java, Python, C#, SQL
-- **Mobile Development:** Android (MVVM, Clean Architecture, Jetpack Components)
+- **Mobile Development:** Android (MVVM, Clean Architecture)
 - **Web Development:** ASP.NET Core, REST APIs
 - **Tools & Frameworks:** Retrofit, Firebase, Dagger/Hilt, Room
 - **Database Management:** MySQL, SQLite, Room
-- **Cloud & Hosting:** AWS, Firebase
 - **Project Methodologies:** Agile, Scrum, CI/CD
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=velaphi-maseko&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=velaphi-maseko&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=velaphi-maseko&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Slindile2022&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Slindile2022&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Slindile2022&layout=compact&theme=radical)
 
 ---
 
